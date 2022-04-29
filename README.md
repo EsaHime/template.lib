@@ -2,7 +2,7 @@
 
 > Create at esahime_create_date.
 
-My awesome library.
+esahime_description
 
 ## Quick Start
 

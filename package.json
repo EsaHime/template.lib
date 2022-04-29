@@ -1,7 +1,7 @@
 {
   "name": "esahime_project_name",
   "version": "0.1.0",
-  "description": "My library.",
+  "description": "esahime_description",
   "main": "./dist/index.js",
   "module": "./dist/index.esm.js",
   "files": [
