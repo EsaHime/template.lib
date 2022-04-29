@@ -1,6 +1,6 @@
 # esahime_project_name
 
-> Create at hime_create_date.
+> Create at esahime_create_date.
 
 My awesome library.
 
